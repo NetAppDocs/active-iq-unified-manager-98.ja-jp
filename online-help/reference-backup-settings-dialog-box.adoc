@@ -1,0 +1,66 @@
+---
+permalink: online-help/reference-backup-settings-dialog-box.html 
+sidebar: sidebar 
+keywords:  
+summary: 選択したUnified Managerインスタンスのバックアップパスを定義して、バックアップスケジュール、保持数、およびMySQLデータベースダンプバックアップ方式を使用する際に指定します。 
+---
+= Backup Settingsダイアログボックス
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+選択したUnified Managerインスタンスのバックアップパスを定義して、バックアップスケジュール、保持数、およびMySQLデータベースダンプバックアップ方式を使用する際に指定します。
+
+次のデータベースバックアップ設定を変更できます。
+
+* * パス *
++
+MySQLデータベースダンプバックアップ方式を使用している場合、このフィールドには、バックアップファイルの格納先のパスを指定します。Snapshotバックアップ方式を使用している場合は、バックアップを格納するクラスタ、Storage VM、およびボリュームが表示されます。
+
++
+次の表に、バックアップパスの形式とデフォルトの場所をオペレーティングシステム別に示します。
+
++
+|===
+| ホストオペレーティングシステム | バックアップパスの形式 
+
+
+ a| 
+仮想アプライアンス
+ a| 
+`/opt/netapp/data/ocum-backup`
+
+
+
+ a| 
+Red Hat Enterprise Linux または CentOS Linux
+ a| 
+`/data/ocum-backup`
+
+
+
+ a| 
+Microsoft Windows の場合
+ a| 
+`C:\ProgramData\NetApp\OnCommandAppData\ocum\backup\`
+
+|===
+* *保持数*
++
+Unified Managerでバックアップを保持する最大数を指定します。デフォルト値は10です。
+
+* *毎日スケジュール*
++
+日次バックアップを実行する時刻を指定します。
+
+* *毎週スケジュール*
++
+週次バックアップを実行する曜日と時刻を指定します。
+
+* * なし *
++
+バックアップは作成されません。
+
+

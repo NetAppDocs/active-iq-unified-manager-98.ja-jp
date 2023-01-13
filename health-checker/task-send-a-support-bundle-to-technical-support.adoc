@@ -1,0 +1,22 @@
+---
+permalink: health-checker/task-send-a-support-bundle-to-technical-support.html 
+sidebar: sidebar 
+keywords:  
+summary: このワークフローでは、Unified Managerのメンテナンスコンソールを使用して、サポートバンドルの生成、取得、テクニカルサポートへの送信を行う方法の例を示します。サポートバンドルの送信が必要となるのは、問題メッセージよりも詳しい診断とトラブルシューティングが必要な AutoSupport です。 
+---
+= テクニカルサポートへのUnified Managerサポートバンドルの送信
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+このワークフローでは、Unified Managerのメンテナンスコンソールを使用して、サポートバンドルの生成、取得、テクニカルサポートへの送信を行う方法の例を示します。サポートバンドルの送信が必要となるのは、問題メッセージよりも詳しい診断とトラブルシューティングが必要な AutoSupport です。
+
+
+
+== このタスクについて
+
+Unified Managerでは、生成されるサポートバンドルは一度に最大2つ保存されます。
+
+メンテナンスコンソールの詳細については、を参照してください link:../config/concept-configuring-unified-manager.html["Active IQ Unified Manager を設定しています"]。

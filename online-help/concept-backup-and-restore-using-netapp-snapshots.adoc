@@ -1,0 +1,25 @@
+---
+permalink: online-help/concept-backup-and-restore-using-netapp-snapshots.html 
+sidebar: sidebar 
+keywords:  
+summary: NetApp Snapshot バックアップは、システム障害やデータ損失が発生した場合にリストアに使用できる Unified Manager データベースと構成ファイルのポイントインタイムイメージを作成します。Snapshot バックアップをいずれかの ONTAP クラスタ上のボリュームに定期的に書き込まれるようにスケジュールして、常に最新のコピーを保持します。 
+---
+= NetApp Snapshot を使用したバックアップとリストア
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+NetApp Snapshot バックアップは、システム障害やデータ損失が発生した場合にリストアに使用できる Unified Manager データベースと構成ファイルのポイントインタイムイメージを作成します。Snapshot バックアップをいずれかの ONTAP クラスタ上のボリュームに定期的に書き込まれるようにスケジュールして、常に最新のコピーを保持します。
+
+[NOTE]
+====
+この機能は、Unified ManagerがRed Hat Enterprise LinuxサーバまたはCentOS Linuxサーバにインストールされている場合にのみ使用できます。
+
+====
+Snapshot バックアップにかかる時間はごくわずかで、通常は数分です。 Unified Manager データベースが非常に短時間ロックされるため、インストールの中断はほとんどありません。イメージには Snapshot コピーが最後に作成されたあとに発生したファイルへの変更だけが記録されるため、ストレージスペースは最小限しか消費せず、パフォーマンスのオーバーヘッドもわずかです。この Snapshot は ONTAP クラスタ上に作成されるため、必要に応じて、 SnapMirror などのネットアップの他の機能を利用してセカンダリ保護を作成できます。
+
+バックアップ処理を開始する前に、 Unified Manager で整合性チェックが実行され、デスティネーションシステムが使用可能であることが確認されます。
+
+Snapshotバックアップは、同じバージョンのUnified Managerにのみリストアできます。たとえば、Unified Manager 9.8で作成したバックアップは、Unified Manager 9.8システムにのみリストアできます。

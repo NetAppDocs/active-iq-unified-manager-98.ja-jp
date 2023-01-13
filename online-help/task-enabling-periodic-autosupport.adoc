@@ -1,0 +1,38 @@
+---
+permalink: online-help/task-enabling-periodic-autosupport.html 
+sidebar: sidebar 
+keywords: Active IQ 
+summary: 事前に定義された特定のAutoSupport メッセージをUnified Managerからテクニカルサポートに自動的に送信するように設定すると、環境の正しい運用や環境の整合性の維持に役立ちます。AutoSupport はデフォルトで有効になっており、NetAppActive IQのメリットを活用するためには無効にしないでください。 
+---
+= 定期的な AutoSupport の有効化
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+事前に定義された特定のAutoSupport メッセージをUnified Managerからテクニカルサポートに自動的に送信するように設定すると、環境の正しい運用や環境の整合性の維持に役立ちます。AutoSupport はデフォルトで有効になっており、NetAppActive IQのメリットを活用するためには無効にしないでください。
+
+
+
+== 作業を開始する前に
+
+メンテナンスユーザとしてログインする必要があります。
+
+
+
+== このタスクについて
+
+Active IQ は、NetApp Support Site でホストされているWebベースのアプリケーションであり、ブラウザを使用してアクセスできます。システムからネットアップにデータを返送するためには、そのシステムでAutoSupport を有効にし、設定しておく必要があります。
+
+https://mysupport.netapp.com/info/web/AboutAIQ.html["NetApp Active IQ の略"]
+
+
+
+== 手順
+
+. 左側のナビゲーションペインで、* General *>* AutoSupport *をクリックします。
+. [ AutoSupport データを定期的にActive IQ に送信することを有効にする*]チェックボックスをオンにします。
+. 必要に応じて、HTTPプロキシサーバの名前、ポート、および認証情報を定義します。
+. [ 保存（ Save ） ] をクリックします。
+
