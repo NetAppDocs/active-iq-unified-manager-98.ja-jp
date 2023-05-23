@@ -1,9 +1,9 @@
 ---
 section: online-help
-title: オンラインヘルプ
+title: 9fde9515d3a1ede8d6f12a1892c894ec
 entries:
 - title: Active IQ Unified Manager の概要
-  pdf-filename: Active IQ Unified Manager の概要（管理と監視）
+  pdf-filename: d667ab1eefcedffdc31f52ebff9d478d
   url: "/online-help/concept-introduction-to-unified-manager.html"
   entries:
   - title: Active IQ Unified Manager の健常性監視の概要
@@ -52,7 +52,7 @@ entries:
   - title: ONTAP の問題を Unified Manager から直接修正
     url: "/online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html"
     entries:
-    - title: "[修正] または[すべて修正]ボタンが表示されたら、どのようなオプションがありますか"
+    - title: 21287f9310da73025b9619111ce2ce7e
       url: "/online-help/concept-what-options-do-i-have-when-i-see-the-fix-it-button.html"
     - title: 修正するように選択した管理アクションのステータスの表示
       url: "/online-help/task-viewing-the-status-of-all-management-actions-you-have-chosen-to-fix.html"
@@ -1409,7 +1409,7 @@ entries:
   url: "/online-help/concept-troubleshooting.html"
   entries:
   - title: Unified Manager のホスト名を変更しています
-    pdf-filename: Unified Managerのホスト名の変更（管理と監視）
+    pdf-filename: 19966a54541b838c85278932c36c8122
     url: "/online-help/concept-changing-the-unified-manager-host-name.html"
     entries:
     - title: Unified Manager 仮想アプライアンスのホスト名を変更する
@@ -1417,7 +1417,7 @@ entries:
     - title: Linux システムで Unified Manager ホスト名を変更する
       url: "/online-help/task-changing-the-unified-manager-host-name-on-rhel-or-centos.html"
   - title: Unified Manager データベースディレクトリにディスクスペースを追加しています
-    pdf-filename: Unified Managerデータベースディレクトリへのディスクスペースの追加（管理および監視）
+    pdf-filename: 433a3de67ad10a966d2b8b61c37210d2
     url: "/online-help/concept-adding-disk-space-to-the-unified-manager-database-directory.html"
     entries:
     - title: VMware 仮想マシンのデータディスクにスペースを追加しています
