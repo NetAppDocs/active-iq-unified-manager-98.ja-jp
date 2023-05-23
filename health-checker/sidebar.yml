@@ -1,6 +1,6 @@
 ---
 section: health-checker
-title: 32d8b1bb1bdc5067bfbde495253b3469
+title: クラスタヘルスを監視および管理する
 entries:
 - title: Active IQ Unified Manager の健常性監視の概要
   url: "/health-checker/concept-introduction-to-unified-manager-health-monitoring.html"
@@ -38,13 +38,13 @@ entries:
     - title: ボリュームがフルになった場合の推奨修正策の実施
       url: "/health-checker/task-performing-suggested-remedial-actions-for-a-full-volume.html"
   - title: 健常性しきい値の管理
-    pdf-filename: 0cdc2e43fd617d44b61e3c28d05ef9e7
+    pdf-filename: 健常性しきい値の管理（クラスタ健常性）
     url: "/health-checker/concept-managing-health-thresholds.html"
     entries:
     - title: ストレージ容量の健常性しきい値とは
       url: "/health-checker/concept-what-storage-capacity-health-thresholds-are.html"
     - title: グローバル健全性しきい値を設定します
-      pdf-filename: a4d86585f88de3caa783eefc33f81448
+      pdf-filename: グローバル健全性しきい値の設定（クラスタの健常性）
       url: "/health-checker/task-configuring-global-health-threshold-settings.html"
       entries:
       - title: アグリゲートのグローバル健全性しきい値を設定します
@@ -62,11 +62,11 @@ entries:
     - title: 個々の qtree の健全性しきい値の設定を編集する
       url: "/health-checker/task-editing-individual-qtree-health-threshold-settings.html"
   - title: クラスタのセキュリティ目標の管理
-    pdf-filename: d399cb65a45975e7bdfbe00c026f9e54
+    pdf-filename: クラスタのセキュリティ目標の管理（クラスタヘルス）
     url: "/health-checker/concept-managing-cluster-security-objectives.html"
     entries:
     - title: 評価されるセキュリティ条件
-      pdf-filename: 595ab232cf3a33e7d9061971978c8478
+      pdf-filename: 評価されるセキュリティ条件（クラスタの健常性）
       url: "/health-checker/concept-what-security-criteria-is-being-evaluated.html"
       entries:
       - title: クラスタコンプライアンスのカテゴリ
@@ -96,13 +96,13 @@ entries:
     - title: セキュリティイベント
       url: "/health-checker/reference-security-events.html"
   - title: バックアップとリストアの処理の管理
-    pdf-filename: 99f7fc554597facf78ccd7bebb349a82
+    pdf-filename: バックアップ処理とリストア処理の管理（クラスタヘルス）
     url: "/health-checker/concept-managing-backup-and-restore-operations.html"
     entries:
     - title: 仮想アプライアンスのバックアップとリストアのプロセス
       url: "/health-checker/concept-backup-and-restore-on-virtual-appliance.html"
     - title: MySQL データベースダンプを使用したバックアップとリストア
-      pdf-filename: 3b1058ff08792a3433d6a10b9fb8b6fe
+      pdf-filename: MySQLデータベースダンプを使用したバックアップとリストア（クラスタの健常性）
       url: "/health-checker/concept-backup-and-restore-using-a-mysql-database-dump.html"
       entries:
       - title: データベースダンプバックアップのデスティネーションの設定とスケジュール設定
@@ -114,7 +114,7 @@ entries:
       - title: Windows での MySQL データベースバックアップのリストア
         url: "/health-checker/task-restoring-a-mysql-database-backup-on-windows.html"
     - title: NetApp Snapshot を使用したバックアップとリストア
-      pdf-filename: 534c8d4c808923383712e17e50530568
+      pdf-filename: NetApp Snapshotを使用したバックアップとリストア（クラスタの健常性）
       url: "/health-checker/concept-backup-and-restore-using-netapp-snapshots.html"
       entries:
       - title: バックアップが格納されるボリュームを作成しています
@@ -128,7 +128,7 @@ entries:
     - title: Linux システムへの Unified Manager 仮想アプライアンスの移行
       url: "/health-checker/task-migrating-a-unified-manager-virtual-appliance-to-a-rhel-or-centos-system.html"
   - title: スクリプトの管理
-    pdf-filename: 41373b97896fa2cbe5f9c98d158879dc
+    pdf-filename: スクリプトの管理（クラスタの健常性）
     url: "/health-checker/concept-managing-scripts.html"
     entries:
     - title: スクリプトとアラートの連携方法
@@ -140,11 +140,11 @@ entries:
     - title: スクリプトの実行テスト
       url: "/health-checker/task-testing-script-execution.html"
   - title: グループの管理と監視
-    pdf-filename: 8cb3de1dd32fe03b6b18b81a93da83e8
+    pdf-filename: グループの管理と監視（クラスタの健常性）
     url: "/health-checker/concept-managing-and-monitoring-groups.html"
     entries:
     - title: グループの概要
-      pdf-filename: ed4a47a0df5e1dccb40840219fa50571
+      pdf-filename: グループの概要（クラスタの健常性）
       url: "/health-checker/concept-understanding-groups.html"
       entries:
       - title: グループとは
@@ -210,7 +210,7 @@ entries:
     - title: アノテーションルールの順序を変更する
       url: "/health-checker/task-reordering-annotation-rules.html"
   - title: Unified Manager のメンテナンス時間とは
-    pdf-filename: 458c6c03d066ca184930dd208d270f0f
+    pdf-filename: Unified Managerのメンテナンス時間とは（クラスタの健常性）
     url: "/health-checker/concept-what-a-um-maintenance-window-is.html"
     entries:
     - title: メンテナンス時間のスケジュールによるクラスタイベント通知の無効化
@@ -220,7 +220,7 @@ entries:
     - title: メンテナンス時間中に発生したイベントの表示
       url: "/health-checker/task-viewing-events-that-occurred-during-a-maintenance-window.html"
   - title: SAML 認証の設定を管理する
-    pdf-filename: b6a37febbfcd299253addfaef17d14d2
+    pdf-filename: SAML認証の設定の管理（クラスタの健常性）
     url: "/health-checker/concept-managing-saml-authentication-settings-um.html"
     entries:
     - title: アイデンティティプロバイダの要件
@@ -258,7 +258,7 @@ entries:
     - title: イベントを確認して解決します
       url: "/health-checker/task-acknowledging-and-resolving-events.html"
     - title: イベントの詳細ページ
-      pdf-filename: b18762187a76685e14050770c534b8bf
+      pdf-filename: イベントの詳細ページ（クラスタの健全性）
       url: "/health-checker/reference-event-details-page.html"
       entries:
       - title: "[Event Information] セクションに表示される内容"
