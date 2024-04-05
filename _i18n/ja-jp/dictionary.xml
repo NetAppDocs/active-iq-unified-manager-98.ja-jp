@@ -12691,33 +12691,6 @@
   <block id="54cee202b784163d7cdf325cdd6aa6c6" category="sidebar">VMware vSphere のクイックスタートインストール</block>
   <block id="a63af8d4197dd6c65eaa56176a1f0040" category="sidebar">Linux のクイックスタートインストール</block>
   <block id="b107f1742bfa32d7247ebf557550e2b5" category="sidebar">Windows のクイックスタートインストール</block>
-  <block id="828adfb3faf6bb0d6a86602f92d97f36" category="sidebar">configure Unified Manager をインストールします</block>
-  <block id="e53d36a21edd215027333eb7ea60fbc1" category="sidebar">VMware vSphere システムにアップグレードをインストールします</block>
-  <block id="e16bdcc955b9441255836a75b797d710" category="sidebar">Linux システムにアップグレードをインストール</block>
-  <block id="5088a593884b9f5b6d52f0765c1c1554" category="sidebar">Windows システムにアップグレードをインストールします</block>
-  <block id="40a3a0e70dc43e9efc5b6e90644739dd" category="sidebar">Unified Manager を設定します</block>
-  <block id="d8be01b779b72fb7ad353d45426e7fe3" category="sidebar">パフォーマンスの監視</block>
-  <block id="eb7e776ba84f97e32ca2522829847d83" category="sidebar">パフォーマンスしきい値</block>
-  <block id="e4b3ba4cc2976d5d2c21b446db787620" category="sidebar">クラスタのパフォーマンス</block>
-  <block id="13b1a36194bc49ac73c5077e1c1f6dd7" category="sidebar">QoS ポリシーグループ</block>
-  <block id="9c8007a675a79a50e15e5f8b518142de" category="sidebar">データ保護の監視</block>
-  <block id="bf54949621b6403edf2732fa98614df6" category="sidebar">保護関係をセットアップする</block>
-  <block id="70979e8a3c0bd0556d9e0f41562315a3" category="sidebar">フェイルオーバーとフェイルバックを実行</block>
-  <block id="98e89001f140ad515c45156a86a785b0" category="sidebar">保護関係を管理する</block>
-  <block id="7ecd0726b721e17d74d280fdd93e49f8" category="sidebar">レポートを生成します</block>
-  <block id="13f1397303dbc6596a7d0adff2836250" category="sidebar">REST APIs を使用します</block>
-  <block id="473d694016cdd75be9080ed64f378b47" category="sidebar">ONTAP API にアクセスします</block>
-  <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">リソースの追加</block>
-  <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Unified Manager のビデオ</block>
-  <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Unified Manager のブログです</block>
-  <block id="c0fd3a67a0f9d526734eae8cf8142cb4" category="sidebar">Active IQ Unified Manager の最新バージョンのドキュメント</block>
-  <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager の略</block>
-  <block id="d549fcac9e4340e7fb3d154a339f9c13" category="sidebar">データを保護、リストア</block>
-  <block id="daf5556e2cd44d363ebb94f982b54758" category="sidebar">保護ジョブの失敗（データ保護）の解決</block>
-  <block id="63c702324d7a2f1acfb2291776c09e62" category="sidebar">保護関係の管理と監視（データ保護）</block>
-  <block id="721e2c530014fb77b39a26e93e0ef94b" category="sidebar">保護関係の概要 のウィンドウとダイアログボックス（データ保護）</block>
-  <block id="5fc23f7e4ef2f5b01f7034e6f2ceb340" category="sidebar">VMware vSphere システムに Unified Manager をインストールします</block>
-  <block id="77d7ce66941e6a8a53f84f813d2b2bf1" category="sidebar">REST API を使用してストレージを管理できます</block>
   <block id="1d6677925b878ba927adf44f615f75db" category="sidebar">Linux システムに Unified Manager をインストールします</block>
   <block id="6d965e3523cbb8faf3f4fa1d2fa45204" category="sidebar">Active IQ Unified Manager の概要（Linuxシステム）</block>
   <block id="5c5b460958d8a157f04ee9220402180a" category="sidebar">Unified Managerをインストールするための要件（Linuxシステム）</block>
@@ -12731,52 +12704,7 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
-  <block id="c1a9193a29dc40ec352c6691d67ab578" category="sidebar">Windows システムに Unified Manager をインストールする</block>
-  <block id="a0af5ca8f7344392b5c82b109a63af72" category="sidebar">Active IQ Unified Manager の概要（Windowsシステム）</block>
-  <block id="70104377094a1b08793fc5ab5e6bbf34" category="sidebar">Unified Managerをインストールするための要件（Windowsシステム）</block>
-  <block id="8d6c82b2ac4ea5256730039b09b01a10" category="sidebar">Unified Managerソフトウェアのインストール、アップグレード、削除（Windowsシステム）</block>
-  <block id="013bd757b5f39b48944aa701029bfff3" category="sidebar">サードパーティ製品のアップグレード（Windowsシステム）</block>
-  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">オンラインヘルプ</block>
-  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">Active IQ Unified Manager の概要（管理と監視）</block>
-  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar"><strong>[修正]</strong><strong></strong> または[すべて修正]ボタンが表示されたら、どのようなオプションがありますか</block>
-  <block id="19966a54541b838c85278932c36c8122" category="sidebar">Unified Managerのホスト名の変更（管理と監視）</block>
-  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Unified Managerデータベースディレクトリへのディスクスペースの追加（管理および監視）</block>
-  <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">カスタムレポートを生成</block>
-  <block id="6f047d4c177cc734ed65cb347cf6bd42" category="sidebar">クラスタのパフォーマンスを監視および管理する</block>
-  <block id="7b6c318fd25f9f3167946ff1cd519b37" category="sidebar">パフォーマンスしきい値の管理（クラスタパフォーマンス）</block>
-  <block id="5cee3e2a7d9fd3a450c386f7bc50f8d8" category="sidebar">Workload Analyzerを使用したワークロードのトラブルシューティング（クラスタのパフォーマンス）</block>
-  <block id="4055607a505292e96a80554fd58a4e64" category="sidebar">パフォーマンスクラスタランディングページからのクラスタパフォーマンスの監視（クラスタパフォーマンス）</block>
-  <block id="0db41ee78b37bb6a911896e1706e1db1" category="sidebar">パフォーマンスクラスタランディングページ（クラスタのパフォーマンス）</block>
-  <block id="14c992efb73d9230b778a5be1e48b109" category="sidebar">Performance Cluster Summaryページ（クラスタパフォーマンス）</block>
-  <block id="bd4d7fc7efe51394c5609e7028a89161" category="sidebar">パフォーマンスインベントリページを使用したパフォーマンスの監視（クラスタパフォーマンス）</block>
-  <block id="60e931429de36a253ed4281414506246" category="sidebar">パフォーマンスインベントリページの内容の改善（クラスタパフォーマンス）</block>
-  <block id="cd98155c9ebd0b4e5798d08fe818d0c0" category="sidebar">パフォーマンスエクスプローラのページを使用したパフォーマンスの監視（クラスタパフォーマンス）</block>
-  <block id="3bfdbbba06a0da9a30e5dfb4f4a5c52b" category="sidebar">関連オブジェクトの期間の指定（クラスタのパフォーマンス）</block>
-  <block id="7e3d11e39c296556e26128597a83be5f" category="sidebar">カウンタグラフズームビュー（クラスタパフォーマンス）</block>
-  <block id="997c11eb30499c63077ded6cd0af0797" category="sidebar">オブジェクトランディングページのコンポーネント（クラスタのパフォーマンス）</block>
-  <block id="13863084fbe609ffbdbde5379b405b9f" category="sidebar">QoSポリシーグループ情報を使用したパフォーマンスの管理（クラスタパフォーマンス）</block>
-  <block id="833536b007e5dc522ec95154291d5673" category="sidebar">パフォーマンス容量と使用可能なIOPSの情報を使用したパフォーマンスの管理（クラスタのパフォーマンス）</block>
-  <block id="f7d8295b62383c5905f73d94fab2a91d" category="sidebar">ノオトフエイルオオハアフランヘエシノカイヨウトシヨウクラスタハフオオマンス</block>
-  <block id="31c08b81891f5ffa387874cd28b4729a" category="sidebar">データの収集とワークロードパフォーマンスの監視（クラスタのパフォーマンス）</block>
-  <block id="a64ee0d6babd0439c9f3674e47406b5f" category="sidebar">MetroCluster 構成のパフォーマンス監視（クラスタのパフォーマンス）</block>
-  <block id="93bc2e54f1178627cbf74d7ff9d4d422" category="sidebar">パフォーマンスイベントとは（クラスタパフォーマンス）</block>
-  <block id="8096ca2fd7af9cca5f4e4e621ddfe88e" category="sidebar">パフォーマンスイベントの分析（クラスタパフォーマンス）</block>
-  <block id="1f7b694fa151b6e5e94d108b2f19dff2" category="sidebar">ユーザ定義のパフォーマンスしきい値で生成されたイベントの分析（クラスタのパフォーマンス）</block>
-  <block id="89c39eda634097d08c2d019a482285c2" category="sidebar">システム定義のパフォーマンスしきい値で生成されたイベントの分析（クラスタのパフォーマンス）</block>
-  <block id="a5f9c0660ea467c7c86afc1f051b7386" category="sidebar">動的なパフォーマンスしきい値で生成されたイベントの分析（クラスタのパフォーマンス）</block>
-  <block id="78ad073c3d86b8f6327c6e3f8b6530e4" category="sidebar">MetroCluster 構成のパフォーマンスイベント分析（クラスタのパフォーマンス）</block>
-  <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">クラスタヘルスを監視および管理する</block>
-  <block id="0cdc2e43fd617d44b61e3c28d05ef9e7" category="sidebar">健常性しきい値の管理（クラスタ健常性）</block>
-  <block id="a4d86585f88de3caa783eefc33f81448" category="sidebar">グローバル健全性しきい値の設定（クラスタの健常性）</block>
-  <block id="d399cb65a45975e7bdfbe00c026f9e54" category="sidebar">クラスタのセキュリティ目標の管理（クラスタヘルス）</block>
-  <block id="595ab232cf3a33e7d9061971978c8478" category="sidebar">評価されるセキュリティ条件（クラスタの健常性）</block>
-  <block id="99f7fc554597facf78ccd7bebb349a82" category="sidebar">バックアップ処理とリストア処理の管理（クラスタヘルス）</block>
-  <block id="3b1058ff08792a3433d6a10b9fb8b6fe" category="sidebar">MySQLデータベースダンプを使用したバックアップとリストア（クラスタの健常性）</block>
-  <block id="534c8d4c808923383712e17e50530568" category="sidebar">NetApp Snapshotを使用したバックアップとリストア（クラスタの健常性）</block>
-  <block id="41373b97896fa2cbe5f9c98d158879dc" category="sidebar">スクリプトの管理（クラスタの健常性）</block>
-  <block id="8cb3de1dd32fe03b6b18b81a93da83e8" category="sidebar">グループの管理と監視（クラスタの健常性）</block>
-  <block id="ed4a47a0df5e1dccb40840219fa50571" category="sidebar">グループの概要（クラスタの健常性）</block>
-  <block id="458c6c03d066ca184930dd208d270f0f" category="sidebar">Unified Managerのメンテナンス時間とは（クラスタの健常性）</block>
-  <block id="b6a37febbfcd299253addfaef17d14d2" category="sidebar">SAML認証の設定の管理（クラスタの健常性）</block>
-  <block id="b18762187a76685e14050770c534b8bf" category="sidebar">イベントの詳細ページ（クラスタの健全性）</block>
+  <block id="5c54cb8f927a6c5a90622e1c7bd0bda5" category="paragraph">NTP</block>
+  <block id="4a8598febd97e32d0698051cd71f02fa" category="paragraph">123 / UDP</block>
+  <block id="cb2a1ba65000d6677f2856e06530ac31" category="paragraph">Unified Manager サーバの時間を外部の NTP タイムサーバと同期するために使用します。（ VMware システムのみ）。</block>
 </blocks>
