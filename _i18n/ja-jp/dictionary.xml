@@ -12727,4 +12727,14 @@
   <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Unified Manager のビデオ</block>
   <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Unified Manager のブログです</block>
   <block id="c0fd3a67a0f9d526734eae8cf8142cb4" category="sidebar">Active IQ Unified Manager の最新バージョンのドキュメント</block>
+  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">オンラインヘルプ</block>
+  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">Active IQ Unified Manager の概要（管理と監視）</block>
+  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar"><strong>[修正]</strong><strong></strong> または[すべて修正]ボタンが表示されたら、どのようなオプションがありますか</block>
+  <block id="19966a54541b838c85278932c36c8122" category="sidebar">Unified Managerのホスト名の変更（管理と監視）</block>
+  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Unified Managerデータベースディレクトリへのディスクスペースの追加（管理および監視）</block>
+  <block id="c1a9193a29dc40ec352c6691d67ab578" category="sidebar">Windows システムに Unified Manager をインストールする</block>
+  <block id="a0af5ca8f7344392b5c82b109a63af72" category="sidebar">Active IQ Unified Manager の概要（Windowsシステム）</block>
+  <block id="70104377094a1b08793fc5ab5e6bbf34" category="sidebar">Unified Managerをインストールするための要件（Windowsシステム）</block>
+  <block id="8d6c82b2ac4ea5256730039b09b01a10" category="sidebar">Unified Managerソフトウェアのインストール、アップグレード、削除（Windowsシステム）</block>
+  <block id="013bd757b5f39b48944aa701029bfff3" category="sidebar">サードパーティ製品のアップグレード（Windowsシステム）</block>
 </blocks>
