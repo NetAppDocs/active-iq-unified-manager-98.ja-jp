@@ -1,6 +1,6 @@
 ---
 section: api-automation
-title: 77d7ce66941e6a8a53f84f813d2b2bf1
+title: REST APIを使用したストレージの管理
 entries:
 - title: Active IQ Unified Manager での作業の開始
   url: "/api-automation/concept-getting-started-with-getting-started-with-um-apis.html"
